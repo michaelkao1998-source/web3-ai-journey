@@ -1,0 +1,24 @@
+{
+  "name": "web3-ai-journey",
+  "version": "1.0.0",
+  "description": "This is my first web3-ai product. From now, I start my career as a web3+AI developer.",
+  "main": "hardhat.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelkao1998-source/web3-ai-journey.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/michaelkao1998-source/web3-ai-journey/issues"
+  },
+  "homepage": "https://github.com/michaelkao1998-source/web3-ai-journey#readme",
+  "devDependencies": {
+    "hardhat": "^3.19.0"
+  }
+}

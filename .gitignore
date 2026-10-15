@@ -1,6 +1,7 @@
 node_modules/
 .env
 .env.*
+!.env.example
 venv/
 .venv/
 __pycache__/
@@ -10,3 +11,4 @@ cache/
 ai-agent/venv/
 ai-agent/.env
 ai-agent/.env.*
+!ai-agent/.env.example

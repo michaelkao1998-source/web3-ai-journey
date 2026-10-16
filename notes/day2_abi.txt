@@ -1,0 +1,2 @@
+What is the abi?
+abi is the application binary interface. it's a kind of bridge between smart contracts and javascript code.

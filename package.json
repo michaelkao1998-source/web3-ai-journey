@@ -5,7 +5,9 @@
   "main": "hardhat.config.js",
   "scripts": {
     "test": "npx hardhat test",
-    "deploy": "npx hardhat run scripts/deploy.js"
+    "deploy": "npx hardhat run scripts/deploy.js",
+    "counter:deploy": "npx hardhat run scripts/deploy_counter.js --network localhost",
+    "counter:interact": "npx hardhat run scripts/interact_counter.js --network localhost"
   },
   "repository": {
     "type": "git",

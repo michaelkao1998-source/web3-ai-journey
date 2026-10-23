@@ -1,2 +1,8 @@
 What is the abi?
-abi is the application binary interface. it's a kind of bridge between smart contracts and javascript code.
+    abi is the application binary interface. it's a kind of bridge between smart contracts and javascript code.
+why does interact.js need ABI?
+    it needs abi to communicate with deployed contracts.
+
+In Counter.sol
+
+what is owner?
